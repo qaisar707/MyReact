@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyReact.git/static/css/main.8d0d5795.chunk.css",
+    "main.js": "/MyReact.git/static/js/main.106fddf9.chunk.js",
+    "main.js.map": "/MyReact.git/static/js/main.106fddf9.chunk.js.map",
+    "runtime-main.js": "/MyReact.git/static/js/runtime-main.0889052d.js",
+    "runtime-main.js.map": "/MyReact.git/static/js/runtime-main.0889052d.js.map",
+    "static/js/2.0f11fc25.chunk.js": "/MyReact.git/static/js/2.0f11fc25.chunk.js",
+    "static/js/2.0f11fc25.chunk.js.map": "/MyReact.git/static/js/2.0f11fc25.chunk.js.map",
+    "static/js/3.f8ff7af6.chunk.js": "/MyReact.git/static/js/3.f8ff7af6.chunk.js",
+    "static/js/3.f8ff7af6.chunk.js.map": "/MyReact.git/static/js/3.f8ff7af6.chunk.js.map",
+    "index.html": "/MyReact.git/index.html",
+    "static/css/main.8d0d5795.chunk.css.map": "/MyReact.git/static/css/main.8d0d5795.chunk.css.map",
+    "static/js/2.0f11fc25.chunk.js.LICENSE.txt": "/MyReact.git/static/js/2.0f11fc25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0889052d.js",
+    "static/js/2.0f11fc25.chunk.js",
+    "static/css/main.8d0d5795.chunk.css",
+    "static/js/main.106fddf9.chunk.js"
+  ]
+}
